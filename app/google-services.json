@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "119360297511",
+    "firebase_url": "https://journal-app-7af68.firebaseio.com",
+    "project_id": "journal-app-7af68",
+    "storage_bucket": "journal-app-7af68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119360297511:android:eb22ff0823016a56",
+        "android_client_info": {
+          "package_name": "com.example.hp.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119360297511-4tfuo7395hvbvo5r2kfi5b68vkjnde4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Mss_d8PErJKt-u4wvG76ZyG3rE-vOxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

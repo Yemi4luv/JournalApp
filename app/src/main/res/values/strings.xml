@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="loading">Loading…</string>
+    <string name="log_error_occurred">"Error occurred: "</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="edit_keyword_description">Give a title to your entry&#8230;</string>
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="signout">Sign Out</string>
+
+
+    <string name="web_client_id">
+        119360297511-4tfuo7395hvbvo5r2kfi5b68vkjnde4v.apps.googleusercontent.com</string>
+
+</resources>
