@@ -20,6 +20,7 @@ import java.util.Arrays;
 
 public class Login extends AppCompatActivity {
     // Choose an arbitrary request code value
+    // Choose an arbitrary request code value git testing
     private static final int RC_SIGN_IN = 123;
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
